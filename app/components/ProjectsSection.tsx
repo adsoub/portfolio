@@ -27,7 +27,7 @@ const projects = [
 		description: 'Un jeu web présentant les missions du Département Charente Maritime, réalisé avec KaplayJS',
 		image: '/mdcm.png',
 		url: "https://adsoub.alwaysdata.net/kaplay",
-		git:"https://gitlab.com/ad.soubigou/jeu-dpt17-kaplayjs",
+		git:"https://github.com/adsoub/mdcm",
 	},
 	{
 		id: 4,
@@ -73,7 +73,7 @@ export default function ProjectsSection() {
 									Voir le projet
 								</Link>
 							{project.git && <Link href={project.git} className="text-sm px-4 py-2 bg-white/10 hover:bg-white/20 rounded-full transition-colors">
-									GitLab
+									GitHub
 								</Link>}
 							</div>
 						</div>
