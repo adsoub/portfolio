@@ -22,7 +22,7 @@ export default function ContactSection() {
 					transition={{ duration: 0.6, delay: 0.2 }}
 					className="text-gray-300 mb-6"
 				>
-					Mon profil vous intéresse ? N'hésitez pas à me contacter.
+					Mon profil vous intéresse ? N&apos;hésitez pas à me contacter.
 				</motion.p>
 
 				<motion.div
