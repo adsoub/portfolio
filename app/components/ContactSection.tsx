@@ -56,7 +56,7 @@ export default function ContactSection() {
 						<span>Mail</span>
 					</a>
 					<a
-						href="/CV_062025.pdf"
+						href="/CV_072025.pdf"
 						target="_blank"
 						className="group flex items-center gap-2 px-6 py-3 bg-white/5 rounded-full hover:bg-white/10 transition-colors w-full sm:w-auto"
 					>
