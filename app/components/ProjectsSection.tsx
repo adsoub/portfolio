@@ -35,7 +35,7 @@ const projects = [
 		description: 'Un blog comprenant affichage et tri des articles, inscription/connexion utilisateurs, dashboard et CRUD, réalisé avec PHP et MySQL',
 		image: '/blog.png',
 		url: "https://adsoub.alwaysdata.net/blog_stage",
-		git:"",
+		git:"https://github.com/adsoub/series02",
 	},
 ];
 
