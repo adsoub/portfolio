@@ -11,7 +11,7 @@ const projects = [
 		description: 'Un générateur de recettes via IA, réalisé avec ReactJS et HuggingFace',
 		image: '/cookia.png',
 		url : "https://adsoub.alwaysdata.net/cookia",
-		git: "",
+		git: "https://github.com/adsoub/cookIA",
 	},
 	{
 		id: 2,
