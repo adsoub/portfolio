@@ -19,7 +19,7 @@ const projects = [
 		description: 'Une version du jeu du pendu, réalisé avec ReactJS',
 		image: '/assembly.png',
 		url: "https://adsoub.alwaysdata.net/assembly",
-		git:"",
+		git:"https://github.com/adsoub/assembly",
 	},
 	{
 		id: 3,
