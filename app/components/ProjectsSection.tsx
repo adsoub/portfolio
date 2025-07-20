@@ -72,7 +72,7 @@ export default function ProjectsSection() {
 								<Link href={project.url} target='blank' className="text-sm px-4 py-2 bg-white/10 hover:bg-white/20 rounded-full transition-colors">
 									Voir le projet
 								</Link>
-							{project.git && <Link href={project.git} className="text-sm px-4 py-2 bg-white/10 hover:bg-white/20 rounded-full transition-colors">
+							{project.git && <Link href={project.git} target='blank' className="text-sm px-4 py-2 bg-white/10 hover:bg-white/20 rounded-full transition-colors">
 									GitHub
 								</Link>}
 							</div>
